@@ -1,0 +1,21 @@
+{
+  "name": "snellfinder",
+  "version": "0.0.1",
+  "description": "Send a notification when we finish a game of Dota.",
+  "author": {
+    "name": "Brad Dickason",
+    "email": "dickason@gmail.com"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdickason/snellfinder.git"
+  },
+  "dependencies": {
+    "steam": "*"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "homepage": "https://github.com/bdickason/snellfinder"
+}
